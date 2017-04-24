@@ -47,8 +47,7 @@ def quality(request):
     sup = request.GET.get('support', "")
     start = request.GET.get('start', "")
     over = request.GET.get('over', "")
-    cls = \
-    ['nobuffer_pro', 'nobuffer_pro', 'fluency_pro', 'custom_unusual_pro', 'average_playtime', 'gt3caton_pro', 'uv', 'vv'][
+    cls = ['nobuffer_pro', 'nobuffer_pro', 'fluency_pro', 'custom_unusual_pro', 'average_playtime', 'gt3caton_pro', 'uv', 'vv'][
         cls1 == u'零缓冲比例' and 1 or cls1 == u'播放流畅比例' and 2 or cls1 == u'异常比例' and 3 or cls1 == u'卡顿大于三次比例' and 4 or cls1 == u'平均播放时长' and 5 or cls1 == u'VV变化' and 6 or cls1 == u'UV变化' and 7]
     support = [1, 1, 0, 3, 9, 10, 14, 15][
         sup == u'自建' and 1 or sup == u'所有' and 2 or sup == u'奇异' and 3 or sup == u'又拍' and 4 or sup == u'乐视' and 5 or sup == u'金山' and 6 or sup == u'蛮蛮云' and 7]
