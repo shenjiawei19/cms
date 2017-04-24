@@ -1,0 +1,1739 @@
+2017-02-23 11:32:32,875 [Thread-2:2072] [django.request:182] [base:get_response] [WARNING]- Not Found: /
+2017-02-23 11:32:33,035 [Thread-3:9364] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-02-23 11:33:01,032 [Thread-2:10472] [django.request:182] [base:get_response] [WARNING]- Not Found: /
+2017-02-23 11:33:47,789 [Thread-2:7216] [django.request:182] [base:get_response] [WARNING]- Not Found: /
+2017-02-23 14:51:14,398 [Thread-5:17052] [django.request:182] [base:get_response] [WARNING]- Not Found: /
+2017-02-23 17:27:45,571 [Thread-28:22608] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-23 17:27:45,594 [Thread-29:23184] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-23 17:27:45,594 [Thread-30:23272] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-23 17:27:45,624 [Thread-31:22832] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-23 17:27:45,668 [Thread-32:22888] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-23 17:27:45,668 [Thread-33:23140] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-23 17:31:13,631 [Thread-35:22584] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-23 17:31:13,638 [Thread-36:22936] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-23 17:31:13,640 [Thread-37:18924] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-23 17:31:13,645 [Thread-38:23024] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-23 17:31:13,648 [Thread-39:22480] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-23 17:31:13,655 [Thread-40:19684] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-23 17:31:38,303 [Thread-42:18176] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-23 17:31:38,315 [Thread-43:21772] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-23 17:31:38,316 [Thread-44:21060] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-23 17:31:38,319 [Thread-45:21608] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-23 17:31:38,319 [Thread-46:22876] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-23 17:31:38,331 [Thread-47:21536] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-23 17:33:18,474 [Thread-48:20916] [django.request:182] [base:get_response] [WARNING]- Not Found: /typography.html
+2017-02-23 17:34:23,494 [Thread-56:22776] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-23 17:34:23,509 [Thread-58:20604] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-23 17:34:23,509 [Thread-57:22588] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-23 17:34:23,509 [Thread-59:22828] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-23 17:34:23,509 [Thread-60:20536] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-23 17:34:23,516 [Thread-61:23284] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-23 17:36:46,131 [Thread-63:22600] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-23 17:36:46,183 [Thread-64:21060] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-23 17:36:46,190 [Thread-65:21908] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-23 17:36:46,190 [Thread-66:23040] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-23 17:36:46,194 [Thread-67:20604] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-23 17:36:46,203 [Thread-68:18040] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-23 17:37:31,898 [Thread-70:23792] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-23 17:37:31,907 [Thread-72:23800] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-23 17:37:31,907 [Thread-71:23796] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-23 17:37:31,914 [Thread-73:23804] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-23 17:37:31,915 [Thread-74:23808] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-23 17:37:31,959 [Thread-75:23812] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-23 17:39:09,457 [Thread-77:24340] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-23 17:39:09,461 [Thread-78:24344] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-23 17:39:09,473 [Thread-79:24352] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-23 17:39:09,611 [Thread-80:24356] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-23 17:39:09,611 [Thread-81:24360] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-23 17:39:09,622 [Thread-82:24372] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-23 17:40:37,523 [Thread-84:24184] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-23 17:40:37,536 [Thread-85:24180] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-23 17:40:37,540 [Thread-86:22560] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-23 17:40:37,546 [Thread-87:19332] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-23 17:40:37,548 [Thread-88:23836] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-23 17:40:37,552 [Thread-89:23360] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-23 17:41:00,290 [Thread-91:24420] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-23 17:41:00,322 [Thread-92:24424] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-23 17:41:00,338 [Thread-93:24428] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-23 17:41:00,355 [Thread-94:24448] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-23 17:41:00,372 [Thread-95:24432] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-23 17:41:00,391 [Thread-96:24416] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-23 17:41:00,490 [Thread-97:24168] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-23 17:41:00,517 [Thread-98:24404] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-23 17:41:00,522 [Thread-99:21908] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-23 17:41:00,529 [Thread-100:20604] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-23 17:41:00,536 [Thread-101:24008] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-23 17:41:00,556 [Thread-102:23964] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-23 17:41:56,471 [Thread-104:22804] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-23 17:41:56,520 [Thread-106:24172] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-23 17:41:56,520 [Thread-105:21416] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-23 17:41:56,523 [Thread-107:24412] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-23 17:41:56,526 [Thread-108:23992] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-23 17:41:56,539 [Thread-109:23884] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-23 17:43:10,783 [Thread-111:23656] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-23 17:43:10,788 [Thread-112:24268] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-23 17:43:10,789 [Thread-113:22312] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-23 17:43:10,790 [Thread-114:20572] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-23 17:43:10,792 [Thread-115:11564] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-23 17:43:10,802 [Thread-116:23560] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-23 17:44:00,177 [Thread-118:23652] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-23 17:44:00,190 [Thread-119:24316] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-23 17:44:00,194 [Thread-120:23804] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-23 17:44:00,197 [Thread-121:23896] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-23 17:44:00,197 [Thread-122:17912] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-23 17:44:00,200 [Thread-123:23280] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-23 17:44:17,046 [Thread-125:23136] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-23 17:44:17,052 [Thread-126:24020] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-23 17:44:17,053 [Thread-127:24108] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-23 17:44:17,055 [Thread-128:24392] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-23 17:44:17,058 [Thread-129:23116] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-23 17:44:17,061 [Thread-130:24540] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-23 17:45:00,825 [Thread-132:22980] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-23 17:45:00,888 [Thread-133:23720] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-23 17:45:00,940 [Thread-134:23984] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-23 17:45:00,979 [Thread-135:23724] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-23 17:45:01,015 [Thread-136:24568] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-23 17:45:01,085 [Thread-137:23740] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-23 17:45:01,318 [Thread-138:20776] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-23 17:45:01,398 [Thread-139:23956] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-23 17:45:01,430 [Thread-140:22624] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-23 17:45:01,519 [Thread-141:24512] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-23 17:45:01,585 [Thread-142:23776] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-23 17:45:01,713 [Thread-143:23700] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-23 17:45:20,795 [Thread-145:22724] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-23 17:45:20,802 [Thread-146:20492] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-23 17:45:20,803 [Thread-147:23076] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-23 17:45:20,805 [Thread-149:18416] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-23 17:45:20,805 [Thread-148:22568] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-23 17:45:20,815 [Thread-150:21280] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-23 17:47:38,946 [Thread-152:24404] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-23 17:47:38,961 [Thread-153:22060] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-23 17:47:38,973 [Thread-154:23956] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-23 17:47:38,983 [Thread-155:24392] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-23 17:47:38,996 [Thread-156:20540] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-23 17:47:39,009 [Thread-157:24380] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-23 17:47:39,020 [Thread-158:23992] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-23 17:47:39,033 [Thread-159:22516] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-23 17:47:39,048 [Thread-160:22452] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-24 14:26:43,857 [Thread-3:30840] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-24 14:26:43,859 [Thread-4:32452] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-24 14:26:43,861 [Thread-5:32796] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-24 14:26:43,861 [Thread-7:30636] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-24 14:26:43,861 [Thread-6:29312] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-24 14:26:43,861 [Thread-8:31328] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-24 14:26:44,244 [Thread-9:33764] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-24 14:26:44,246 [Thread-10:33404] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-24 14:26:44,249 [Thread-11:33496] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-24 14:26:44,252 [Thread-12:32860] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-24 14:26:44,256 [Thread-13:32044] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-24 14:26:44,259 [Thread-14:31888] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-24 14:26:44,907 [Thread-15:8084] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-02-24 14:27:26,427 [Thread-17:31012] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-24 14:27:26,436 [Thread-18:32992] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-24 14:27:26,436 [Thread-20:33620] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-24 14:27:26,437 [Thread-19:32324] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-24 14:27:26,437 [Thread-21:31428] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-24 14:27:26,440 [Thread-22:32548] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-24 14:27:49,243 [Thread-23:33056] [django.request:182] [base:get_response] [WARNING]- Not Found: /calendar.html
+2017-02-24 14:27:53,782 [Thread-24:33752] [django.request:182] [base:get_response] [WARNING]- Not Found: /elements.html
+2017-02-24 14:29:21,766 [Thread-31:30692] [django.request:182] [base:get_response] [WARNING]- Not Found: /index.html
+2017-02-24 14:33:03,793 [Thread-39:32840] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-24 14:33:03,848 [Thread-40:33432] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-24 14:33:03,849 [Thread-41:31404] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-24 14:33:03,852 [Thread-42:34464] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-24 14:33:03,854 [Thread-43:34360] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-24 14:33:03,855 [Thread-44:34624] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-24 14:33:03,861 [Thread-45:34656] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-24 14:34:19,252 [Thread-47:34128] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-24 14:34:19,270 [Thread-48:34600] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-24 14:34:19,296 [Thread-49:34132] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-24 14:34:19,311 [Thread-50:34660] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-24 14:34:19,361 [Thread-51:32784] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-24 14:34:19,461 [Thread-52:34232] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-24 14:34:19,673 [Thread-53:34248] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-24 14:34:19,676 [Thread-54:33136] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-24 14:34:19,703 [Thread-55:33912] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-24 14:34:19,709 [Thread-56:34548] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-24 14:34:19,711 [Thread-57:32424] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-24 14:34:36,713 [Thread-60:33920] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-24 14:34:36,713 [Thread-62:33932] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-24 14:34:36,714 [Thread-61:34796] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-24 14:34:36,714 [Thread-59:34024] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-24 14:34:36,714 [Thread-63:34552] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-24 14:34:36,717 [Thread-64:33840] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-24 14:35:06,803 [Thread-66:33808] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-24 14:35:06,875 [Thread-67:34404] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-24 14:35:07,039 [Thread-68:34416] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-24 14:35:07,107 [Thread-69:33948] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-24 14:35:07,160 [Thread-70:34400] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-24 14:35:07,226 [Thread-71:34408] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-24 14:35:07,551 [Thread-72:33824] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-24 14:35:07,565 [Thread-73:28900] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-24 14:35:07,575 [Thread-74:32400] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-24 14:35:07,598 [Thread-75:33680] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-24 14:35:07,608 [Thread-76:32052] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-24 14:35:07,621 [Thread-77:34228] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-24 14:36:06,263 [Thread-79:34232] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-24 14:36:06,279 [Thread-80:34248] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-24 14:36:06,279 [Thread-81:33136] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-24 14:36:06,280 [Thread-82:33912] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-24 14:36:06,282 [Thread-83:32424] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-24 14:36:06,295 [Thread-84:34628] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-24 14:37:20,721 [Thread-86:33980] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-24 14:37:20,733 [Thread-89:34248] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-24 14:37:20,734 [Thread-88:34232] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-24 14:37:20,734 [Thread-90:33136] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-24 14:37:20,744 [Thread-87:34692] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-24 14:37:20,753 [Thread-91:33912] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-24 14:38:06,657 [Thread-93:34716] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-24 14:38:06,667 [Thread-94:34732] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-24 14:38:06,667 [Thread-95:32932] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar2.png
+2017-02-24 14:38:06,668 [Thread-96:34664] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar3.png
+2017-02-24 14:38:06,668 [Thread-97:33764] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-24 14:38:06,671 [Thread-98:34608] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-24 14:38:50,407 [Thread-100:32356] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-24 14:38:50,470 [Thread-101:31880] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-24 14:38:50,503 [Thread-102:34644] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-24 14:38:50,551 [Thread-103:31060] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-24 14:38:50,789 [Thread-104:34224] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar1.png
+2017-02-24 14:38:50,885 [Thread-105:33840] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar.png
+2017-02-24 14:38:51,513 [Thread-106:34284] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/user.jpg
+2017-02-24 14:38:51,535 [Thread-107:34300] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/avatars/avatar4.png
+2017-02-24 17:27:32,490 [Thread-40:43472] [django.request:182] [base:get_response] [WARNING]- Not Found: /www.ismartv.com
+2017-03-01 16:26:07,627 [Thread-4:26212] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-03-15 11:51:18,825 [Thread-4:8656] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-03-15 11:51:56,234 [Thread-5:7888] [django.request:182] [base:get_response] [WARNING]- Not Found: /widgets.html
+2017-03-15 11:52:14,822 [Thread-6:6752] [django.request:182] [base:get_response] [WARNING]- Not Found: /typography.html
+2017-03-15 12:05:57,474 [Thread-13:7496] [django.request:182] [base:get_response] [WARNING]- Not Found: /calendar.html
+2017-03-16 09:37:58,128 [Thread-2:22864] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-03-16 09:40:19,782 [Thread-2:19216] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 9, in test
+    for i in a:
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 258, in __iter__
+    self._fetch_all()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 1074, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 52, in __iter__
+    results = compiler.execute_sql()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\compiler.py", line 852, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\utils.py", line 95, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\mysql\base.py", line 112, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Anaconda2\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "C:\Anaconda2\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 835, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 1019, in _read_query_result
+    result.read()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 1302, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 981, in _read_packet
+    packet.check_error()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Anaconda2\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1146, u"Table 's_ismartv.cushion_plau_info' doesn't exist")
+2017-03-16 10:03:14,752 [Thread-2:25684] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 9, in test
+    for i in a:
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 258, in __iter__
+    self._fetch_all()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 1074, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 52, in __iter__
+    results = compiler.execute_sql()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\compiler.py", line 852, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\utils.py", line 95, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\mysql\base.py", line 112, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Anaconda2\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "C:\Anaconda2\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 835, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 1019, in _read_query_result
+    result.read()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 1302, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 981, in _read_packet
+    packet.check_error()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Anaconda2\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1146, u"Table 's_ismartv.plau_info' doesn't exist")
+2017-03-16 10:05:31,681 [Thread-2:25660] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 9, in test
+    for i in a:
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 258, in __iter__
+    self._fetch_all()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 1074, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 52, in __iter__
+    results = compiler.execute_sql()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\compiler.py", line 852, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\utils.py", line 95, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\mysql\base.py", line 112, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Anaconda2\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "C:\Anaconda2\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 835, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 1019, in _read_query_result
+    result.read()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 1302, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 981, in _read_packet
+    packet.check_error()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Anaconda2\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1146, u"Table 's_ismartv.info' doesn't exist")
+2017-03-16 10:14:42,157 [Thread-2:26124] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 9, in test
+    for i in a:
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 258, in __iter__
+    self._fetch_all()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 1074, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 52, in __iter__
+    results = compiler.execute_sql()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\compiler.py", line 852, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\utils.py", line 95, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\mysql\base.py", line 112, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Anaconda2\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "C:\Anaconda2\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 835, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 1019, in _read_query_result
+    result.read()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 1302, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 981, in _read_packet
+    packet.check_error()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Anaconda2\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1146, u"Table 's_ismartv.plau_info' doesn't exist")
+2017-03-16 10:14:53,413 [Thread-2:23332] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 9, in test
+    for i in a:
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 258, in __iter__
+    self._fetch_all()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 1074, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 52, in __iter__
+    results = compiler.execute_sql()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\compiler.py", line 852, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\utils.py", line 95, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\mysql\base.py", line 112, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Anaconda2\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "C:\Anaconda2\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 835, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 1019, in _read_query_result
+    result.read()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 1302, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 981, in _read_packet
+    packet.check_error()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Anaconda2\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1146, u"Table 's_ismartv.plau_info' doesn't exist")
+2017-03-16 10:15:02,381 [Thread-2:24580] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 9, in test
+    for i in a:
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 258, in __iter__
+    self._fetch_all()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 1074, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 52, in __iter__
+    results = compiler.execute_sql()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\compiler.py", line 852, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\utils.py", line 95, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\mysql\base.py", line 112, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Anaconda2\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "C:\Anaconda2\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 835, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 1019, in _read_query_result
+    result.read()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 1302, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 981, in _read_packet
+    packet.check_error()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Anaconda2\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1146, u"Table 's_ismartv.plau_info' doesn't exist")
+2017-03-16 10:15:26,687 [Thread-3:24532] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 9, in test
+    for i in a:
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 258, in __iter__
+    self._fetch_all()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 1074, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 52, in __iter__
+    results = compiler.execute_sql()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\compiler.py", line 852, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\utils.py", line 95, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\mysql\base.py", line 112, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Anaconda2\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "C:\Anaconda2\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 835, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 1019, in _read_query_result
+    result.read()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 1302, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 981, in _read_packet
+    packet.check_error()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Anaconda2\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1146, u"Table 's_ismartv.plau_info' doesn't exist")
+2017-03-16 10:15:40,819 [Thread-2:25724] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 8, in test
+    a = plau_info.objects.all()
+NameError: global name 'plau_info' is not defined
+2017-03-16 10:15:50,737 [Thread-2:21800] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 9, in test
+    for i in a:
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 258, in __iter__
+    self._fetch_all()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 1074, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 52, in __iter__
+    results = compiler.execute_sql()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\compiler.py", line 852, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\utils.py", line 95, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\mysql\base.py", line 112, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Anaconda2\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "C:\Anaconda2\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 835, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 1019, in _read_query_result
+    result.read()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 1302, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 981, in _read_packet
+    packet.check_error()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Anaconda2\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+InternalError: (1054, u"Unknown column 'play_info.id' in 'field list'")
+2017-03-16 10:17:01,055 [Thread-4:26644] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 9, in test
+    print a
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 258, in __iter__
+    self._fetch_all()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 1074, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 52, in __iter__
+    results = compiler.execute_sql()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\compiler.py", line 852, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\utils.py", line 95, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\mysql\base.py", line 112, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Anaconda2\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "C:\Anaconda2\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 835, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 1019, in _read_query_result
+    result.read()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 1302, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 981, in _read_packet
+    packet.check_error()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Anaconda2\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+InternalError: (1054, u"Unknown column 'play_info.id' in 'field list'")
+2017-03-16 10:26:15,561 [Thread-2:24684] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 8, in test
+    a = play_info.objects.filter(cdn_id=1,date__day='2017-03-05').values('cdn_id','type','nobuffer_pro')
+  File "C:\Anaconda2\lib\site-packages\django\db\models\manager.py", line 122, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 790, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 808, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1243, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1269, in _add_q
+    allow_joins=allow_joins, split_subq=split_subq,
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1203, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1099, in build_lookup
+    return final_lookup(lhs, rhs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\lookups.py", line 19, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\lookups.py", line 57, in get_prep_lookup
+    return self.lhs.output_field.get_prep_lookup(self.lookup_name, self.rhs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\fields\__init__.py", line 1859, in get_prep_lookup
+    return super(IntegerField, self).get_prep_lookup(lookup_type, value)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\fields\__init__.py", line 744, in get_prep_lookup
+    return self.get_prep_value(value)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\fields\__init__.py", line 1853, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: '2017-03-05'
+2017-03-16 12:22:48,625 [Thread-2:24996] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 9, in test
+    a.__delattr__('id')
+AttributeError: id
+2017-03-16 12:23:56,604 [Thread-2:30656] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 9, in test
+    a.__delattr__('id')
+AttributeError: id
+2017-03-16 12:24:25,213 [Thread-2:31256] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 17, in test
+    return render_to_response("index.html", info, context_instance=RequestContext(request))
+NameError: global name 'info' is not defined
+2017-03-16 12:29:22,003 [Thread-2:30264] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 8, in test
+    print play_info.__delattr__('id')
+TypeError: expected 1 arguments, got 0
+2017-03-16 12:29:39,772 [Thread-2:30316] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 8, in test
+    play_info.__delattr__('id')
+TypeError: expected 1 arguments, got 0
+2017-03-16 12:30:49,177 [Thread-2:30656] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 8, in test
+    play_info.__delattr__('id')
+TypeError: expected 1 arguments, got 0
+2017-03-16 12:31:12,953 [Thread-2:31972] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 9, in test
+    play_info.__delattr__('id')
+TypeError: expected 1 arguments, got 0
+2017-03-16 12:32:10,246 [Thread-2:32244] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 9, in test
+    play_info.__delattr__('id')
+TypeError: expected 1 arguments, got 0
+2017-03-16 12:32:28,250 [Thread-8:32388] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 9, in test
+    play_info.__delattr__('id')
+TypeError: expected 1 arguments, got 0
+2017-03-16 12:32:29,474 [Thread-2:32428] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 9, in test
+    play_info.__delattr__('id')
+TypeError: expected 1 arguments, got 0
+2017-03-16 13:13:26,993 [Thread-4:33616] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 9, in test
+    play_info.__delattr__('id')
+TypeError: expected 1 arguments, got 0
+2017-03-16 13:15:33,246 [Thread-14:33748] [django.request:182] [base:get_response] [WARNING]- Not Found: /p/return-back.png
+2017-03-16 14:05:21,240 [Thread-2:30264] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 22, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','type','nobuffer_pro')
+  File "C:\Anaconda2\lib\site-packages\django\db\models\manager.py", line 122, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 790, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 808, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1243, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1269, in _add_q
+    allow_joins=allow_joins, split_subq=split_subq,
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1149, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1035, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1330, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+FieldError: Cannot resolve keyword 'cdn' into field. Choices are: average_playtime, cdn_id, custom_unusual_pro, date, fluency_pro, gt3caton_pro, id, nobuffer_pro, type, uv, vv
+2017-03-16 14:07:28,180 [Thread-2:33848] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 20, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','type','nobuffer_pro')
+  File "C:\Anaconda2\lib\site-packages\django\db\models\manager.py", line 122, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 790, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 808, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1243, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1269, in _add_q
+    allow_joins=allow_joins, split_subq=split_subq,
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1149, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1035, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1330, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+FieldError: Cannot resolve keyword 'cdn' into field. Choices are: average_playtime, cdn_id, custom_unusual_pro, date, fluency_pro, gt3caton_pro, id, nobuffer_pro, type, uv, vv
+2017-03-16 15:05:34,210 [Thread-2:37244] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 22, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','supe','nobuffer_pro')
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 712, in values
+    clone = self._values(*fields)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 707, in _values
+    query.add_fields(field_names, True)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1644, in add_fields
+    "Choices are: %s" % (name, ", ".join(names)))
+FieldError: Cannot resolve keyword 'supe' into field. Choices are: average_playtime, cdn_id, custom_unusual_pro, date, fluency_pro, gt3caton_pro, id, nobuffer_pro, type, uv, vv
+2017-03-16 15:05:38,407 [Thread-3:37064] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 22, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','supe','nobuffer_pro')
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 712, in values
+    clone = self._values(*fields)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 707, in _values
+    query.add_fields(field_names, True)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1644, in add_fields
+    "Choices are: %s" % (name, ", ".join(names)))
+FieldError: Cannot resolve keyword 'supe' into field. Choices are: average_playtime, cdn_id, custom_unusual_pro, date, fluency_pro, gt3caton_pro, id, nobuffer_pro, type, uv, vv
+2017-03-16 15:06:18,236 [Thread-6:36880] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 22, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','supe','nobuffer_pro')
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 712, in values
+    clone = self._values(*fields)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 707, in _values
+    query.add_fields(field_names, True)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1644, in add_fields
+    "Choices are: %s" % (name, ", ".join(names)))
+FieldError: Cannot resolve keyword 'supe' into field. Choices are: average_playtime, cdn_id, custom_unusual_pro, date, fluency_pro, gt3caton_pro, id, nobuffer_pro, type, uv, vv
+2017-03-16 15:14:56,492 [Thread-2:38388] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 22, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','type','nobuffer_pro')
+  File "C:\Anaconda2\lib\site-packages\django\db\models\manager.py", line 122, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 790, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 808, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1243, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1269, in _add_q
+    allow_joins=allow_joins, split_subq=split_subq,
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1203, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1099, in build_lookup
+    return final_lookup(lhs, rhs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\lookups.py", line 19, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\lookups.py", line 57, in get_prep_lookup
+    return self.lhs.output_field.get_prep_lookup(self.lookup_name, self.rhs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\fields\__init__.py", line 744, in get_prep_lookup
+    return self.get_prep_value(value)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\fields\__init__.py", line 1296, in get_prep_value
+    return self.to_python(value)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\fields\__init__.py", line 1273, in to_python
+    params={'value': value},
+ValidationError: [u'\u2019\u2018 \u5fc5\u987b\u4e3a\u5408\u6cd5\u7684\u65e5\u671f\u683c\u5f0f\uff0c\u8bf7\u4f7f\u7528 YYYY-MM-DD \u683c\u5f0f\u3002']
+2017-03-16 15:18:34,263 [Thread-2:39820] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 23, in test
+    else:
+  File "C:\Anaconda2\lib\site-packages\django\db\models\manager.py", line 122, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 790, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 808, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1243, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1269, in _add_q
+    allow_joins=allow_joins, split_subq=split_subq,
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1203, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1099, in build_lookup
+    return final_lookup(lhs, rhs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\lookups.py", line 19, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\lookups.py", line 57, in get_prep_lookup
+    return self.lhs.output_field.get_prep_lookup(self.lookup_name, self.rhs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\fields\__init__.py", line 744, in get_prep_lookup
+    return self.get_prep_value(value)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\fields\__init__.py", line 1296, in get_prep_value
+    return self.to_python(value)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\fields\__init__.py", line 1273, in to_python
+    params={'value': value},
+ValidationError: [u'\u2019\u2018 \u5fc5\u987b\u4e3a\u5408\u6cd5\u7684\u65e5\u671f\u683c\u5f0f\uff0c\u8bf7\u4f7f\u7528 YYYY-MM-DD \u683c\u5f0f\u3002']
+2017-03-16 15:18:56,538 [Thread-32:39204] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 25, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','type','nobuffer_pro')
+  File "C:\Anaconda2\lib\site-packages\django\db\models\manager.py", line 122, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 790, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 808, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1243, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1269, in _add_q
+    allow_joins=allow_joins, split_subq=split_subq,
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1203, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1099, in build_lookup
+    return final_lookup(lhs, rhs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\lookups.py", line 19, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\lookups.py", line 57, in get_prep_lookup
+    return self.lhs.output_field.get_prep_lookup(self.lookup_name, self.rhs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\fields\__init__.py", line 744, in get_prep_lookup
+    return self.get_prep_value(value)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\fields\__init__.py", line 1296, in get_prep_value
+    return self.to_python(value)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\fields\__init__.py", line 1273, in to_python
+    params={'value': value},
+ValidationError: [u'\u20192017-03-16 15:10\u2018 \u5fc5\u987b\u4e3a\u5408\u6cd5\u7684\u65e5\u671f\u683c\u5f0f\uff0c\u8bf7\u4f7f\u7528 YYYY-MM-DD \u683c\u5f0f\u3002']
+2017-03-16 15:21:43,036 [Thread-2:39044] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 25, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','type','nobuffer_pro')
+NameError: global name 'dd' is not defined
+2017-03-16 15:22:02,980 [Thread-2:34880] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 25, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','type','nobuffer_pro')
+  File "C:\Anaconda2\lib\site-packages\django\db\models\manager.py", line 122, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 790, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 808, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1243, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1269, in _add_q
+    allow_joins=allow_joins, split_subq=split_subq,
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1203, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1099, in build_lookup
+    return final_lookup(lhs, rhs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\lookups.py", line 19, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\lookups.py", line 57, in get_prep_lookup
+    return self.lhs.output_field.get_prep_lookup(self.lookup_name, self.rhs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\fields\__init__.py", line 744, in get_prep_lookup
+    return self.get_prep_value(value)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\fields\__init__.py", line 1296, in get_prep_value
+    return self.to_python(value)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\fields\__init__.py", line 1273, in to_python
+    params={'value': value},
+ValidationError: [u'\u2019\u2018 \u5fc5\u987b\u4e3a\u5408\u6cd5\u7684\u65e5\u671f\u683c\u5f0f\uff0c\u8bf7\u4f7f\u7528 YYYY-MM-DD \u683c\u5f0f\u3002']
+2017-03-16 15:35:06,115 [Thread-2:38892] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 16, in test
+    print str(typ)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 1-2: ordinal not in range(128)
+2017-03-16 15:36:32,012 [Thread-2:36116] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 16, in test
+    print str(typ)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 1-2: ordinal not in range(128)
+2017-03-16 16:04:34,704 [Thread-2:41668] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 26, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','type',cls)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\manager.py", line 122, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 790, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 808, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1243, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1269, in _add_q
+    allow_joins=allow_joins, split_subq=split_subq,
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1203, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1099, in build_lookup
+    return final_lookup(lhs, rhs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\lookups.py", line 19, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\lookups.py", line 57, in get_prep_lookup
+    return self.lhs.output_field.get_prep_lookup(self.lookup_name, self.rhs)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\fields\__init__.py", line 744, in get_prep_lookup
+    return self.get_prep_value(value)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\fields\__init__.py", line 1296, in get_prep_value
+    return self.to_python(value)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\fields\__init__.py", line 1273, in to_python
+    params={'value': value},
+ValidationError: [u'\u2019\u2018 \u5fc5\u987b\u4e3a\u5408\u6cd5\u7684\u65e5\u671f\u683c\u5f0f\uff0c\u8bf7\u4f7f\u7528 YYYY-MM-DD \u683c\u5f0f\u3002']
+2017-03-16 16:08:39,497 [Thread-2:39944] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 25, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','type',cls,'date')
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 712, in values
+    clone = self._values(*fields)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 707, in _values
+    query.add_fields(field_names, True)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1644, in add_fields
+    "Choices are: %s" % (name, ", ".join(names)))
+FieldError: Cannot resolve keyword 'data' into field. Choices are: average_playtime, cdn_id, custom_unusual_pro, date, fluency_pro, gt3caton_pro, id, nobuffer_pro, type, uv, vv
+2017-03-16 16:09:00,509 [Thread-3:41488] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 25, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','type',cls,'date')
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 712, in values
+    clone = self._values(*fields)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 707, in _values
+    query.add_fields(field_names, True)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1644, in add_fields
+    "Choices are: %s" % (name, ", ".join(names)))
+FieldError: Cannot resolve keyword 'data' into field. Choices are: average_playtime, cdn_id, custom_unusual_pro, date, fluency_pro, gt3caton_pro, id, nobuffer_pro, type, uv, vv
+2017-03-16 16:09:51,250 [Thread-2:41092] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 25, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','type',cls,'date')
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 712, in values
+    clone = self._values(*fields)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 707, in _values
+    query.add_fields(field_names, True)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1629, in add_fields
+    name.split(LOOKUP_SEP), opts, alias, allow_many=allow_m2m)
+AttributeError: 'int' object has no attribute 'split'
+2017-03-16 16:09:52,285 [Thread-3:41076] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 25, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','type',cls,'date')
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 712, in values
+    clone = self._values(*fields)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 707, in _values
+    query.add_fields(field_names, True)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1629, in add_fields
+    name.split(LOOKUP_SEP), opts, alias, allow_many=allow_m2m)
+AttributeError: 'int' object has no attribute 'split'
+2017-03-16 16:10:16,908 [Thread-2:40512] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 25, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','type',cls)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 712, in values
+    clone = self._values(*fields)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 707, in _values
+    query.add_fields(field_names, True)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1629, in add_fields
+    name.split(LOOKUP_SEP), opts, alias, allow_many=allow_m2m)
+AttributeError: 'int' object has no attribute 'split'
+2017-03-16 16:53:19,576 [Thread-2:42352] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 25, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','type',cls,'date')
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 712, in values
+    clone = self._values(*fields)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 707, in _values
+    query.add_fields(field_names, True)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1629, in add_fields
+    name.split(LOOKUP_SEP), opts, alias, allow_many=allow_m2m)
+AttributeError: 'int' object has no attribute 'split'
+2017-03-16 16:53:33,578 [Thread-3:42984] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 26, in test
+    return render_to_response("index.html", a, context_instance=RequestContext(request))
+  File "C:\Anaconda2\lib\site-packages\django\shortcuts.py", line 45, in render_to_response
+    using=using)
+  File "C:\Anaconda2\lib\site-packages\django\template\loader.py", line 114, in render_to_string
+    template_name, context, context_instance, dirs, dictionary)
+  File "C:\Anaconda2\lib\site-packages\django\template\engine.py", line 243, in render_to_string
+    with context_instance.push(context):
+  File "C:\Anaconda2\lib\site-packages\django\template\context.py", line 61, in push
+    return ContextDict(self, *dicts, **kwargs)
+  File "C:\Anaconda2\lib\site-packages\django\template\context.py", line 20, in __init__
+    super(ContextDict, self).__init__(*args, **kwargs)
+ValueError: dictionary update sequence element #0 has length 4; 2 is required
+2017-03-16 16:54:23,012 [Thread-8:43104] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 26, in test
+    for i  in a:
+  File "C:\Anaconda2\lib\site-packages\django\shortcuts.py", line 45, in render_to_response
+    using=using)
+  File "C:\Anaconda2\lib\site-packages\django\template\loader.py", line 114, in render_to_string
+    template_name, context, context_instance, dirs, dictionary)
+  File "C:\Anaconda2\lib\site-packages\django\template\engine.py", line 243, in render_to_string
+    with context_instance.push(context):
+  File "C:\Anaconda2\lib\site-packages\django\template\context.py", line 61, in push
+    return ContextDict(self, *dicts, **kwargs)
+  File "C:\Anaconda2\lib\site-packages\django\template\context.py", line 20, in __init__
+    super(ContextDict, self).__init__(*args, **kwargs)
+ValueError: dictionary update sequence element #0 has length 4; 2 is required
+2017-03-16 16:54:33,438 [Thread-2:43224] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 28, in test
+    return render_to_response("index.html", a, context_instance=RequestContext(request))
+  File "C:\Anaconda2\lib\site-packages\django\shortcuts.py", line 45, in render_to_response
+    using=using)
+  File "C:\Anaconda2\lib\site-packages\django\template\loader.py", line 114, in render_to_string
+    template_name, context, context_instance, dirs, dictionary)
+  File "C:\Anaconda2\lib\site-packages\django\template\engine.py", line 243, in render_to_string
+    with context_instance.push(context):
+  File "C:\Anaconda2\lib\site-packages\django\template\context.py", line 61, in push
+    return ContextDict(self, *dicts, **kwargs)
+  File "C:\Anaconda2\lib\site-packages\django\template\context.py", line 20, in __init__
+    super(ContextDict, self).__init__(*args, **kwargs)
+ValueError: dictionary update sequence element #0 has length 4; 2 is required
+2017-03-16 16:54:49,829 [Thread-2:43452] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 28, in test
+    return render_to_response("index.html", a, context_instance=RequestContext(request))
+  File "C:\Anaconda2\lib\site-packages\django\shortcuts.py", line 45, in render_to_response
+    using=using)
+  File "C:\Anaconda2\lib\site-packages\django\template\loader.py", line 114, in render_to_string
+    template_name, context, context_instance, dirs, dictionary)
+  File "C:\Anaconda2\lib\site-packages\django\template\engine.py", line 243, in render_to_string
+    with context_instance.push(context):
+  File "C:\Anaconda2\lib\site-packages\django\template\context.py", line 61, in push
+    return ContextDict(self, *dicts, **kwargs)
+  File "C:\Anaconda2\lib\site-packages\django\template\context.py", line 20, in __init__
+    super(ContextDict, self).__init__(*args, **kwargs)
+ValueError: dictionary update sequence element #0 has length 4; 2 is required
+2017-03-16 16:58:29,210 [Thread-2:44008] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 29, in test
+    tm.append(i['data'])
+KeyError: 'data'
+2017-03-16 17:00:27,398 [Thread-2:43148] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 33, in test
+    return render_to_response("index.html", a, context_instance=RequestContext(request))
+  File "C:\Anaconda2\lib\site-packages\django\shortcuts.py", line 45, in render_to_response
+    using=using)
+  File "C:\Anaconda2\lib\site-packages\django\template\loader.py", line 114, in render_to_string
+    template_name, context, context_instance, dirs, dictionary)
+  File "C:\Anaconda2\lib\site-packages\django\template\engine.py", line 243, in render_to_string
+    with context_instance.push(context):
+  File "C:\Anaconda2\lib\site-packages\django\template\context.py", line 61, in push
+    return ContextDict(self, *dicts, **kwargs)
+  File "C:\Anaconda2\lib\site-packages\django\template\context.py", line 20, in __init__
+    super(ContextDict, self).__init__(*args, **kwargs)
+ValueError: dictionary update sequence element #0 has length 4; 2 is required
+2017-03-16 17:26:35,342 [Thread-2:43172] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 36, in test
+    return render_to_response("index.html", info, context_instance=RequestContext(request))
+  File "C:\Anaconda2\lib\site-packages\django\shortcuts.py", line 45, in render_to_response
+    using=using)
+  File "C:\Anaconda2\lib\site-packages\django\template\loader.py", line 114, in render_to_string
+    template_name, context, context_instance, dirs, dictionary)
+  File "C:\Anaconda2\lib\site-packages\django\template\engine.py", line 231, in render_to_string
+    t = self.get_template(template_name, dirs)
+  File "C:\Anaconda2\lib\site-packages\django\template\engine.py", line 190, in get_template
+    template, origin = self.find_template(template_name, dirs)
+  File "C:\Anaconda2\lib\site-packages\django\template\engine.py", line 157, in find_template
+    name, template_dirs=dirs, skip=skip,
+  File "C:\Anaconda2\lib\site-packages\django\template\loaders\base.py", line 46, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "C:\Anaconda2\lib\site-packages\django\template\base.py", line 189, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Anaconda2\lib\site-packages\django\template\base.py", line 230, in compile_nodelist
+    return parser.parse()
+  File "C:\Anaconda2\lib\site-packages\django\template\base.py", line 508, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Anaconda2\lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    "or load this tag?" % (token.lineno, command)
+TemplateSyntaxError: Invalid block tag on line 913: 'tm'. Did you forget to register or load this tag?
+2017-03-16 17:29:43,927 [Thread-5:42596] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 25, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','type',cls,'date')
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 712, in values
+    clone = self._values(*fields)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 707, in _values
+    query.add_fields(field_names, True)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1629, in add_fields
+    name.split(LOOKUP_SEP), opts, alias, allow_many=allow_m2m)
+AttributeError: 'int' object has no attribute 'split'
+2017-03-16 18:21:39,273 [Thread-2:26236] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 25, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','type',cls,'date')
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 712, in values
+    clone = self._values(*fields)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 707, in _values
+    query.add_fields(field_names, True)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1629, in add_fields
+    name.split(LOOKUP_SEP), opts, alias, allow_many=allow_m2m)
+AttributeError: 'int' object has no attribute 'split'
+2017-03-16 18:21:47,311 [Thread-3:46540] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 25, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','type',cls,'date')
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 712, in values
+    clone = self._values(*fields)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 707, in _values
+    query.add_fields(field_names, True)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1629, in add_fields
+    name.split(LOOKUP_SEP), opts, alias, allow_many=allow_m2m)
+AttributeError: 'int' object has no attribute 'split'
+2017-03-16 18:22:31,950 [Thread-2:46848] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 25, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','type',cls,'date')
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 712, in values
+    clone = self._values(*fields)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 707, in _values
+    query.add_fields(field_names, True)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1629, in add_fields
+    name.split(LOOKUP_SEP), opts, alias, allow_many=allow_m2m)
+AttributeError: 'int' object has no attribute 'split'
+2017-03-16 18:24:17,246 [Thread-4:43040] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 25, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','type',cls,'date')
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 712, in values
+    clone = self._values(*fields)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 707, in _values
+    query.add_fields(field_names, True)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1629, in add_fields
+    name.split(LOOKUP_SEP), opts, alias, allow_many=allow_m2m)
+AttributeError: 'int' object has no attribute 'split'
+2017-03-16 18:24:24,000 [Thread-5:25484] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 25, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','type',cls,'date')
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 712, in values
+    clone = self._values(*fields)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 707, in _values
+    query.add_fields(field_names, True)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1629, in add_fields
+    name.split(LOOKUP_SEP), opts, alias, allow_many=allow_m2m)
+AttributeError: 'int' object has no attribute 'split'
+2017-03-16 18:27:34,818 [Thread-5:47800] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 25, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','type',cls,'date')
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 712, in values
+    clone = self._values(*fields)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 707, in _values
+    query.add_fields(field_names, True)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1629, in add_fields
+    name.split(LOOKUP_SEP), opts, alias, allow_many=allow_m2m)
+AttributeError: 'int' object has no attribute 'split'
+2017-03-17 09:59:02,973 [Thread-2:6660] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 27, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','type',cls,'date')
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 712, in values
+    clone = self._values(*fields)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 707, in _values
+    query.add_fields(field_names, True)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1629, in add_fields
+    name.split(LOOKUP_SEP), opts, alias, allow_many=allow_m2m)
+AttributeError: 'int' object has no attribute 'split'
+2017-03-17 09:59:04,555 [Thread-3:7396] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-03-17 10:00:31,766 [Thread-2:4712] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 27, in test
+    a = play_info.objects.filter(**dd).values('cdn_id','type',cls,'date')
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 712, in values
+    clone = self._values(*fields)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 707, in _values
+    query.add_fields(field_names, True)
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\query.py", line 1629, in add_fields
+    name.split(LOOKUP_SEP), opts, alias, allow_many=allow_m2m)
+AttributeError: 'int' object has no attribute 'split'
+2017-03-17 10:01:02,453 [Thread-2:7460] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 29, in test
+    tm, vl = zip(*map(lambda x: (x['date'], x[cls]), a))
+ValueError: need more than 0 values to unpack
+2017-03-17 10:02:45,609 [Thread-6:5084] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 29, in test
+    tm, vl = zip(*map(lambda x: (x['date'], x[cls]), a))
+ValueError: need more than 0 values to unpack
+2017-03-17 11:21:43,119 [Thread-7:10944] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 26, in test
+    tm, vl = zip(*map(lambda x: (x['date'], x[cls]), a))
+ValueError: need more than 0 values to unpack
+2017-03-17 11:22:37,710 [Thread-8:9844] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 26, in test
+    tm, vl = zip(*map(lambda x: (x['date'], x[cls]), a))
+ValueError: need more than 0 values to unpack
+2017-03-17 11:29:32,344 [Thread-7:9000] [django.request:182] [base:get_response] [WARNING]- Not Found: /typography.html
+2017-03-17 11:37:16,726 [Thread-2:9080] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 29, in test
+    tm, vl = zip(*map(lambda x: (x['date'], x[cls]), a))
+  File "C:\project\CMS\cushion\views.py", line 29, in <lambda>
+    tm, vl = zip(*map(lambda x: (x['date'], x[cls]), a))
+KeyError: u'\u96f6\u7f13\u51b2\u6bd4\u4f8b'
+2017-03-17 13:48:49,022 [Thread-4:14728] [django.request:182] [base:get_response] [WARNING]- Not Found: /typography.html
+2017-03-17 13:48:55,694 [Thread-5:14736] [django.request:182] [base:get_response] [WARNING]- Not Found: /typography.html
+2017-03-17 13:49:43,910 [Thread-7:15008] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 42, in test
+    return render_to_response("index.html", info, context_instance=RequestContext(request))
+  File "C:\Anaconda2\lib\site-packages\django\shortcuts.py", line 45, in render_to_response
+    using=using)
+  File "C:\Anaconda2\lib\site-packages\django\template\loader.py", line 114, in render_to_string
+    template_name, context, context_instance, dirs, dictionary)
+  File "C:\Anaconda2\lib\site-packages\django\template\engine.py", line 244, in render_to_string
+    return t.render(context_instance)
+  File "C:\Anaconda2\lib\site-packages\django\template\base.py", line 206, in render
+    return self._render(context)
+  File "C:\Anaconda2\lib\site-packages\django\template\base.py", line 197, in _render
+    return self.nodelist.render(context)
+  File "C:\Anaconda2\lib\site-packages\django\template\base.py", line 988, in render
+    bit = node.render_annotated(context)
+  File "C:\Anaconda2\lib\site-packages\django\template\base.py", line 955, in render_annotated
+    return self.render(context)
+  File "C:\Anaconda2\lib\site-packages\django\template\defaulttags.py", line 513, in render
+    six.reraise(*exc_info)
+  File "C:\Anaconda2\lib\site-packages\django\template\defaulttags.py", line 499, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Anaconda2\lib\site-packages\django\core\urlresolvers.py", line 600, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "C:\Anaconda2\lib\site-packages\django\core\urlresolvers.py", line 508, in _reverse_with_prefix
+    (lookup_view_s, args, kwargs, len(patterns), patterns))
+NoReverseMatch: Reverse for '' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+2017-03-17 13:53:23,512 [Thread-3:15296] [django.request:182] [base:get_response] [WARNING]- Not Found: /www.ismartv.com
+2017-03-17 14:21:41,154 [Thread-4:16360] [django.request:182] [base:get_response] [WARNING]- Not Found: /index.html
+2017-03-17 15:22:08,426 [Thread-3:17252] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-03-20 13:10:07,345 [Thread-2:2160] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 17, in test
+    cls = ['nobuffer_pro','nobuffer_pro','fluency_pro','custom_unusual_pro','average_playtime','gt3caton_pro','uv','vv'][cls1==u'闆剁紦鍐叉瘮渚? | cls1==u'鎾斁娴佺晠姣斾緥'and 2 | cls1==u'寮傚父姣斾緥' and 3 | cls1==u'鍗￠】澶т簬涓夋姣斾緥' and 4 | cls1==u'骞冲潎鎾斁鏃堕暱' and 5 | cls1==u'VV鍙樺寲' and 6 | cls1==u'UV鍙樺寲' and 7]
+TypeError: unsupported operand type(s) for |: 'unicode' and 'str'
+2017-03-20 13:10:10,661 [Thread-3:6260] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-03-20 13:11:31,990 [Thread-6:8088] [django.request:182] [base:get_response] [WARNING]- Not Found: /index.html
+2017-03-20 13:19:37,691 [Thread-13:4880] [django.request:182] [base:get_response] [WARNING]- Not Found: /calendar.html
+2017-03-20 13:49:35,243 [Thread-3:7052] [django.request:182] [base:get_response] [WARNING]- Not Found: /jqgrid.html
+2017-03-20 13:49:38,201 [Thread-5:7792] [django.request:182] [base:get_response] [WARNING]- Not Found: /jqgrid.html
+2017-03-20 13:55:51,362 [Thread-13:5796] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 42, in test
+    return render_to_response("index.html", info, context_instance=RequestContext(request))
+  File "C:\Anaconda2\lib\site-packages\django\shortcuts.py", line 45, in render_to_response
+    using=using)
+  File "C:\Anaconda2\lib\site-packages\django\template\loader.py", line 114, in render_to_string
+    template_name, context, context_instance, dirs, dictionary)
+  File "C:\Anaconda2\lib\site-packages\django\template\engine.py", line 244, in render_to_string
+    return t.render(context_instance)
+  File "C:\Anaconda2\lib\site-packages\django\template\base.py", line 206, in render
+    return self._render(context)
+  File "C:\Anaconda2\lib\site-packages\django\template\base.py", line 197, in _render
+    return self.nodelist.render(context)
+  File "C:\Anaconda2\lib\site-packages\django\template\base.py", line 988, in render
+    bit = node.render_annotated(context)
+  File "C:\Anaconda2\lib\site-packages\django\template\base.py", line 955, in render_annotated
+    return self.render(context)
+  File "C:\Anaconda2\lib\site-packages\django\template\defaulttags.py", line 513, in render
+    six.reraise(*exc_info)
+  File "C:\Anaconda2\lib\site-packages\django\template\defaulttags.py", line 499, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Anaconda2\lib\site-packages\django\core\urlresolvers.py", line 600, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "C:\Anaconda2\lib\site-packages\django\core\urlresolvers.py", line 508, in _reverse_with_prefix
+    (lookup_view_s, args, kwargs, len(patterns), patterns))
+NoReverseMatch: Reverse for 'contract' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+2017-03-20 13:59:52,184 [Thread-2:8616] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 42, in cushion
+    return render_to_response("index.html", info, context_instance=RequestContext(request))
+  File "C:\Anaconda2\lib\site-packages\django\shortcuts.py", line 45, in render_to_response
+    using=using)
+  File "C:\Anaconda2\lib\site-packages\django\template\loader.py", line 114, in render_to_string
+    template_name, context, context_instance, dirs, dictionary)
+  File "C:\Anaconda2\lib\site-packages\django\template\engine.py", line 244, in render_to_string
+    return t.render(context_instance)
+  File "C:\Anaconda2\lib\site-packages\django\template\base.py", line 206, in render
+    return self._render(context)
+  File "C:\Anaconda2\lib\site-packages\django\template\base.py", line 197, in _render
+    return self.nodelist.render(context)
+  File "C:\Anaconda2\lib\site-packages\django\template\base.py", line 988, in render
+    bit = node.render_annotated(context)
+  File "C:\Anaconda2\lib\site-packages\django\template\base.py", line 955, in render_annotated
+    return self.render(context)
+  File "C:\Anaconda2\lib\site-packages\django\template\defaulttags.py", line 513, in render
+    six.reraise(*exc_info)
+  File "C:\Anaconda2\lib\site-packages\django\template\defaulttags.py", line 499, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Anaconda2\lib\site-packages\django\core\urlresolvers.py", line 600, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "C:\Anaconda2\lib\site-packages\django\core\urlresolvers.py", line 508, in _reverse_with_prefix
+    (lookup_view_s, args, kwargs, len(patterns), patterns))
+NoReverseMatch: Reverse for 'test' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+2017-03-20 14:00:24,825 [Thread-5:9272] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/css/bootstrap.min.css
+2017-03-20 14:00:24,828 [Thread-6:9484] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/css/font-awesome.min.css
+2017-03-20 14:00:24,831 [Thread-7:9016] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/css/jquery-ui-1.10.3.full.min.css
+2017-03-20 14:00:24,834 [Thread-8:9416] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/css/datepicker.css
+2017-03-20 14:00:24,838 [Thread-9:8184] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/css/ui.jqgrid.css
+2017-03-20 14:00:24,842 [Thread-10:9296] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/css/ace.min.css
+2017-03-20 14:00:24,888 [Thread-11:5880] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/css/ace-rtl.min.css
+2017-03-20 14:00:24,890 [Thread-12:8280] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/css/ace-skins.min.css
+2017-03-20 14:00:24,892 [Thread-13:6448] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/js/ace-extra.min.js
+2017-03-20 14:00:24,989 [Thread-14:9640] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/js/bootstrap.min.js
+2017-03-20 14:00:24,990 [Thread-15:9988] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/js/typeahead-bs2.min.js
+2017-03-20 14:00:24,990 [Thread-16:1772] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/js/date-time/bootstrap-datepicker.min.js
+2017-03-20 14:00:24,990 [Thread-17:4952] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/js/jqGrid/jquery.jqGrid.min.js
+2017-03-20 14:00:24,990 [Thread-18:8752] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/js/jqGrid/i18n/grid.locale-en.js
+2017-03-20 14:00:24,990 [Thread-19:9500] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/js/ace-elements.min.js
+2017-03-20 14:00:25,107 [Thread-20:1716] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar3.png
+2017-03-20 14:00:25,108 [Thread-21:8420] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar4.png
+2017-03-20 14:00:25,131 [Thread-22:10052] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar.png
+2017-03-20 14:00:25,134 [Thread-23:7628] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/user.jpg
+2017-03-20 14:00:25,140 [Thread-24:9956] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/js/ace.min.js
+2017-03-20 14:09:30,164 [Thread-40:10116] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar3.png
+2017-03-20 14:09:30,164 [Thread-39:8896] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar.png
+2017-03-20 14:09:30,165 [Thread-41:8752] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar4.png
+2017-03-20 14:09:30,213 [Thread-42:5312] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/user.jpg
+2017-03-20 14:23:56,763 [Thread-44:10332] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar.png
+2017-03-20 14:23:56,815 [Thread-45:6656] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar3.png
+2017-03-20 14:23:56,834 [Thread-47:9752] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/user.jpg
+2017-03-20 14:23:56,835 [Thread-46:9140] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar4.png
+2017-03-20 14:24:17,664 [Thread-49:9224] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/jqgrid.html
+2017-03-20 14:24:23,821 [Thread-50:8052] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/typography.html
+2017-03-20 14:24:28,582 [Thread-52:8248] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar.png
+2017-03-20 14:24:28,657 [Thread-53:8608] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar3.png
+2017-03-20 14:24:28,721 [Thread-54:10104] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar4.png
+2017-03-20 14:24:28,769 [Thread-55:5076] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/user.jpg
+2017-03-21 09:34:26,434 [Thread-60:20032] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-03-21 09:35:33,076 [Thread-65:19696] [django.request:182] [base:get_response] [WARNING]- Not Found: /index.html
+2017-03-21 09:35:43,252 [Thread-70:20192] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 19, in cushion
+    typ = ['K','K','K82','S1','S2','A21'][typ1==u'K绯诲垪' and 1 | typ1==u'K82绯诲垪'and 2 | typ1==u'S1绯诲垪' and 3 | typ1==u'S2绯诲垪' and 4 | typ1==u'A21绯诲垪' and 5 ]
+TypeError: unsupported operand type(s) for |: 'int' and 'unicode'
+2017-03-21 09:37:47,667 [Thread-72:12748] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 19, in cushion
+    typ = ['K','K','K82','S1','S2','A21'][typ1==u'K绯诲垪' and 1 | typ1==u'K82绯诲垪'and 2 | typ1==u'S1绯诲垪' and 3 | typ1==u'S2绯诲垪' and 4 | typ1==u'A21绯诲垪' and 5 ]
+TypeError: unsupported operand type(s) for |: 'int' and 'unicode'
+2017-03-21 09:38:23,042 [Thread-2:20096] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 20, in cushion
+    typ = ['K','K','K82','S1','S2','A21'][typ1==u'K绯诲垪' and 1 | typ1==u'K82绯诲垪'and 2 | typ1==u'S1绯诲垪' and 3 | typ1==u'S2绯诲垪' and 4 | typ1==u'A21绯诲垪' and 5 ]
+TypeError: unsupported operand type(s) for |: 'int' and 'unicode'
+2017-03-21 09:38:54,328 [Thread-9:20088] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 17, in cushion
+    cls = ['nobuffer_pro','nobuffer_pro','fluency_pro','custom_unusual_pro','average_playtime','gt3caton_pro','uv','vv'][cls1==u'闆剁紦鍐叉瘮渚? and 1 | cls1==u'鎾斁娴佺晠姣斾緥'and 2 | cls1==u'寮傚父姣斾緥' and 3 | cls1==u'鍗￠】澶т簬涓夋姣斾緥' and 4 | cls1==u'骞冲潎鎾斁鏃堕暱' and 5 | cls1==u'VV鍙樺寲' and 6 | cls1==u'UV鍙樺寲' and 7]
+TypeError: unsupported operand type(s) for |: 'int' and 'unicode'
+2017-03-21 09:39:16,260 [Thread-2:20448] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 17, in cushion
+    cls = ['nobuffer_pro','nobuffer_pro','fluency_pro','custom_unusual_pro','average_playtime','gt3caton_pro','uv','vv'][cls1==u'闆剁紦鍐叉瘮渚? and 1 | cls1==u'鎾斁娴佺晠姣斾緥'and 2 | cls1==u'寮傚父姣斾緥' and 3 | cls1==u'鍗￠】澶т簬涓夋姣斾緥' and 4 | cls1==u'骞冲潎鎾斁鏃堕暱' and 5 | cls1==u'VV鍙樺寲' and 6 | cls1==u'UV鍙樺寲' and 7]
+TypeError: unsupported operand type(s) for |: 'int' and 'unicode'
+2017-03-21 09:39:43,473 [Thread-8:20096] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 17, in cushion
+    cls = ['nobuffer_pro','nobuffer_pro','fluency_pro','custom_unusual_pro','average_playtime','gt3caton_pro','uv','vv'][cls1==u'闆剁紦鍐叉瘮渚? and 1 or cls1==u'鎾斁娴佺晠姣斾緥'and 2 or cls1==u'寮傚父姣斾緥' and 3 or cls1==u'鍗￠】澶т簬涓夋姣斾緥' and 4 or cls1==u'骞冲潎鎾斁鏃堕暱' and 5 or cls1==u'VV鍙樺寲' and 6 or cls1==u'UV鍙樺寲' and 7]
+TypeError: unsupported operand type(s) for |: 'int' and 'unicode'
+2017-03-21 14:23:49,585 [Thread-2:24880] [django.request:182] [base:get_response] [WARNING]- Not Found: /index.html
+2017-03-21 14:24:14,746 [Thread-9:24400] [django.request:182] [base:get_response] [WARNING]- Not Found: /index.html
+2017-03-21 14:24:21,463 [Thread-11:25744] [django.request:182] [base:get_response] [WARNING]- Not Found: /index.html
+2017-04-08 10:12:13,226 [Thread-10:9184] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar.png
+2017-04-08 10:12:13,246 [Thread-11:8228] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar3.png
+2017-04-08 10:12:13,252 [Thread-12:3912] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar4.png
+2017-04-08 10:12:13,279 [Thread-13:1824] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/user.jpg
+2017-04-24 10:10:57,042 [Thread-9:4064] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-24 10:13:51,400 [Thread-19:2392] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar.png
+2017-04-24 10:13:51,400 [Thread-20:4540] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar3.png
+2017-04-24 10:13:51,400 [Thread-21:8724] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar4.png
+2017-04-24 10:13:51,483 [Thread-22:1924] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/user.jpg
+2017-04-24 10:14:04,040 [Thread-26:6960] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar.png
+2017-04-24 10:14:04,052 [Thread-27:8528] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar3.png
+2017-04-24 10:14:04,069 [Thread-28:6328] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar4.png
+2017-04-24 10:14:04,086 [Thread-29:6984] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/user.jpg
+2017-04-24 10:14:04,108 [Thread-30:2420] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar.png
+2017-04-24 10:14:04,115 [Thread-31:6512] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar3.png
+2017-04-24 10:14:04,118 [Thread-32:6072] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar4.png
+2017-04-24 10:14:40,154 [Thread-40:7344] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar.png
+2017-04-24 10:14:40,193 [Thread-41:8196] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar3.png
+2017-04-24 10:14:40,203 [Thread-42:8324] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar4.png
+2017-04-24 10:14:40,223 [Thread-43:9084] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/user.jpg
+2017-04-24 10:16:10,562 [Thread-4:1136] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar.png
+2017-04-24 10:16:10,579 [Thread-5:8004] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar3.png
+2017-04-24 10:16:10,581 [Thread-6:4704] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar4.png
+2017-04-24 10:16:10,585 [Thread-7:8364] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/user.jpg
+2017-04-24 10:16:50,336 [Thread-15:1928] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/js/jquery-2.0.3.min.js
+2017-04-24 10:16:52,559 [Thread-16:3140] [django.request:182] [base:get_response] [WARNING]- Not Found: /index.html
+2017-04-24 10:16:54,913 [Thread-18:8160] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/js/jquery-2.0.3.min.js
+2017-04-24 10:16:55,888 [Thread-20:8344] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar.png
+2017-04-24 10:16:55,897 [Thread-21:6792] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar3.png
+2017-04-24 10:16:55,898 [Thread-22:6076] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar4.png
+2017-04-24 10:16:55,910 [Thread-23:7272] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/user.jpg
+2017-04-24 10:16:59,063 [Thread-25:9092] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/js/jquery-2.0.3.min.js
+2017-04-24 10:17:00,171 [Thread-26:7468] [django.request:182] [base:get_response] [WARNING]- Not Found: /index.html
+2017-04-24 10:17:02,625 [Thread-28:1264] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/js/jquery-2.0.3.min.js
+2017-04-24 10:17:53,096 [Thread-34:9516] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar.png
+2017-04-24 10:17:53,111 [Thread-35:9520] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar3.png
+2017-04-24 10:17:53,128 [Thread-36:9524] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar4.png
+2017-04-24 10:17:53,142 [Thread-37:9528] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/user.jpg
+2017-04-24 10:17:53,161 [Thread-38:9532] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar.png
+2017-04-24 10:17:53,167 [Thread-39:9536] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar3.png
+2017-04-24 10:17:53,168 [Thread-40:9540] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar4.png
+2017-04-24 10:18:45,538 [Thread-48:9904] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/js/jquery-2.0.3.min.js
+2017-04-24 10:19:26,653 [Thread-54:10184] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/js/jquery-2.0.3.min.js
+2017-04-24 10:19:51,131 [Thread-60:9488] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/js/jquery-2.0.3.min.js
+2017-04-24 10:19:55,980 [Thread-62:9472] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/js/jquery-2.0.3.min.js
+2017-04-24 10:20:32,167 [Thread-68:9612] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/js/jquery-2.0.3.min.js
+2017-04-24 10:21:55,194 [Thread-74:9524] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/js/jquery-2.0.3.min.js
+2017-04-24 10:24:19,887 [Thread-29:4628] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/js/jquery-2.0.3.min.js
+2017-04-24 10:25:40,369 [Thread-26:10040] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/js/jquery-2.0.3.min.js
+2017-04-24 10:25:43,072 [Thread-35:9980] [django.request:182] [base:get_response] [WARNING]- Not Found: /assets/js/jquery-2.0.3.min.js
+2017-04-24 10:28:15,651 [Thread-43:8316] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar.png
+2017-04-24 10:28:15,665 [Thread-44:5996] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar3.png
+2017-04-24 10:28:15,678 [Thread-45:5168] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar4.png
+2017-04-24 10:28:15,691 [Thread-46:1264] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/user.jpg
+2017-04-24 10:28:15,750 [Thread-47:9776] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar.png
+2017-04-24 10:28:15,752 [Thread-48:4540] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar3.png
+2017-04-24 10:28:15,752 [Thread-49:9084] [django.request:182] [base:get_response] [WARNING]- Not Found: /contract/assets/avatars/avatar4.png
+2017-04-24 13:08:46,546 [Thread-2:12520] [django.request:284] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Anaconda2\lib\site-packages\django\core\handlers\base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\project\CMS\cushion\views.py", line 42, in cushion
+    print d
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 234, in __repr__
+    data = list(self[:REPR_OUTPUT_SIZE + 1])
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 258, in __iter__
+    self._fetch_all()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 1074, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "C:\Anaconda2\lib\site-packages\django\db\models\query.py", line 52, in __iter__
+    results = compiler.execute_sql()
+  File "C:\Anaconda2\lib\site-packages\django\db\models\sql\compiler.py", line 852, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\utils.py", line 95, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "C:\Anaconda2\lib\site-packages\django\db\backends\mysql\base.py", line 112, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Anaconda2\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "C:\Anaconda2\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 835, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 1019, in _read_query_result
+    result.read()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 1302, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 981, in _read_packet
+    packet.check_error()
+  File "C:\Anaconda2\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Anaconda2\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1146, u"Table 'n_ismartv.n_info' doesn't exist")
+2017-04-24 14:09:42,729 [Thread-40:13092] [django.request:182] [base:get_response] [WARNING]- Not Found: /index.html
