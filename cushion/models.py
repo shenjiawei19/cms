@@ -38,3 +38,19 @@ class n_info(models.Model):
     class Meta:
         app_label = None
         db_table = 'ninfo'
+
+class epg(models.Model):
+
+    id = models.AutoField(primary_key=True)
+    date = models.DateTimeField(default=None)
+    uv = models.IntegerField(default=0,null=True)
+    type = models.CharField(default=None,max_length=50,null=True)
+    search = models.IntegerField(default=0,null=True)
+    arrive = models.IntegerField(default=0,null=True)
+    expense =  models.IntegerField(default=0,null=True)
+    purchase =  models.IntegerField(default=0,null=True)
+    error = models.IntegerField(default=0,null=True)
+
+    class Meta:
+        app_label = None
+        db_table = 'epg'

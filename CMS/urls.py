@@ -16,10 +16,10 @@ Including another URLconf
 """
 from django.conf.urls import url
 from django.contrib import admin
-from cushion.views import cushion, contract
+from cushion.views import cushion, contract,quality
 
 urlpatterns = [
     # url(r'^admin/', admin.site.urls),
-    url(r'^$', cushion, name='cushion'),
+    url(r'^$', quality, name='quality'),
     url(r'^contract/$', contract, name='contract')
 ]

@@ -1,0 +1,384 @@
+﻿{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>CMS运维管理中心</title>
+		<meta name="keywords" content="CMS运维管理中心" />
+		<meta name="description" content="CMS运维管理中心" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <script src="{% static 'js/jquery.min.js' %}"></script>
+
+		<link href="{% static 'css/bootstrap.min.css'%}" rel="stylesheet" />
+		<link rel="stylesheet" href="{% static 'css/font-awesome.min.css'%}" />
+		<link rel="stylesheet" href="{% static 'css/ace.min.css'%}" />
+		<link rel="stylesheet" href="{% static 'css/ace-rtl.min.css'%}" />
+		<link rel="stylesheet" href="{% static 'css/ace-skins.min.css'%}" />
+
+		<script src="{% static 'js/ace-extra.min.js' %}"></script>
+
+	</head>
+	<body>
+		<div class="navbar navbar-default" id="navbar">
+			<script type="text/javascript">
+				try{ace.settings.check('navbar' , 'fixed')}catch(e){}
+			</script>
+
+			<div class="navbar-container" id="navbar-container">
+				<div class="navbar-header pull-left">
+					<a href="#" class="navbar-brand">
+						<small>
+							<i class="icon-leaf"></i>
+							CMS运维管理中心
+						</small>
+					</a><!-- /.brand -->
+				</div><!-- /.navbar-header -->
+
+				<div class="navbar-header pull-right" role="navigation">
+					<ul class="nav ace-nav">
+
+
+						<li class="light-blue">
+							<a data-toggle="dropdown" href="#" class="dropdown-toggle">
+								<img class="nav-user-photo" src="{% static 'avatars/user.jpg' %}" alt="Jason's Photo" />
+								<span class="user-info">
+									<small>欢迎光临,</small>
+
+								</span>
+                            </a>
+
+						</li>
+					</ul><!-- /.ace-nav -->
+				</div><!-- /.navbar-header -->
+			</div><!-- /.container -->
+		</div>
+
+		<div class="main-container" id="main-container">
+			<script type="text/javascript">
+				try{ace.settings.check('main-container' , 'fixed')}catch(e){}
+			</script>
+
+			<div class="main-container-inner">
+				<a class="menu-toggler" id="menu-toggler" href="#">
+					<span class="menu-text"></span>
+				</a>
+
+				<div class="sidebar" id="sidebar">
+					<script type="text/javascript">
+						try{ace.settings.check('sidebar' , 'fixed')}catch(e){}
+					</script>
+
+					<div class="sidebar-shortcuts" id="sidebar-shortcuts">
+						<div class="sidebar-shortcuts-large" id="sidebar-shortcuts-large">
+							<button class="btn btn-success">
+								<i class="icon-signal"></i>
+							</button>
+
+							<button class="btn btn-info">
+								<i class="icon-pencil"></i>
+							</button>
+
+							<button class="btn btn-warning">
+								<i class="icon-group"></i>
+							</button>
+
+							<button class="btn btn-danger">
+								<i class="icon-cogs"></i>
+							</button>
+						</div>
+
+						<div class="sidebar-shortcuts-mini" id="sidebar-shortcuts-mini">
+							<span class="btn btn-success"></span>
+
+							<span class="btn btn-info"></span>
+
+							<span class="btn btn-warning"></span>
+
+							<span class="btn btn-danger"></span>
+						</div>
+					</div><!-- #sidebar-shortcuts -->
+
+					<ul class="nav nav-list">
+
+						<li class="active">
+							<a href="{% url 'quality' %}">
+								<i class="icon-text-width"></i>
+								<span class="menu-text"> CDN质量监控 </span>
+							</a>
+						</li>
+
+					</ul><!-- /.nav-list -->
+
+					<div class="sidebar-collapse" id="sidebar-collapse">
+						<i class="icon-double-angle-left" data-icon1="icon-double-angle-left" data-icon2="icon-double-angle-right"></i>
+					</div>
+
+					<script type="text/javascript">
+						try{ace.settings.check('sidebar' , 'collapsed')}catch(e){}
+					</script>
+				</div>
+
+				<div class="main-content">
+					<div class="breadcrumbs" id="breadcrumbs">
+						<script type="text/javascript">
+							try{ace.settings.check('breadcrumbs' , 'fixed')}catch(e){}
+						</script>
+
+						<ul class="breadcrumb">
+							<li>
+								<i class="icon-home home-icon"></i>
+								<a href="#">首页</a>
+							</li>
+							<li class="active">CDN质量监控</li>
+						</ul><!-- .breadcrumb -->
+
+						<div class="nav-search" id="nav-search">
+							<form class="form-search">
+								<span class="input-icon">
+									<input type="text" placeholder="Search ..." class="nav-search-input" id="nav-search-input" autocomplete="off" />
+									<i class="icon-search nav-search-icon"></i>
+								</span>
+							</form>
+						</div><!-- #nav-search -->
+					</div>
+
+					<div class="page-content">
+						<div class="page-header">
+							<h1>
+								CDN质量监控
+								<small>
+									<i class="icon-double-angle-right"></i>
+									 查看
+								</small>
+							</h1>
+						</div><!-- /.page-header -->
+
+						<div class="row">
+							<div class="col-xs-12">
+								<!-- PAGE CONTENT BEGINS -->
+
+								<div class="alert alert-block alert-success">
+									<button type="button" class="close" data-dismiss="alert">
+										<i class="icon-remove"></i>
+									</button>
+
+									<i class="icon-ok green"></i>
+
+									欢迎使用
+									<strong class="green">
+										CMS运维管理中心
+										<small>(v1.0)</small>
+									</strong>
+
+								<!-- PAGE CONTENT ENDS -->
+							</div><!-- /.col -->
+                                <form class="form-horizontal" role="form" action="{% url 'quality' %}" method="GET">
+                                {% csrf_token %}
+									<div class="form-group">
+										<label class="col-sm-1 control-label no-padding-right" for="form-field-1"> 数据查询类型 </label>
+										<div class="col-sm-2">
+                                            <select name='class' class="form-field-1 col-xs-12 col-sm-12" >
+                                                {% if cls != '' %}
+                                                <option>{{ cls }}</option>
+                                                {% endif %}
+                                                <option>零缓冲比例</option>
+                                                <option>播放流畅比例</option>
+                                                <option>异常比例</option>
+                                                <option>卡顿大于三次比例</option>
+                                                <option>首次缓冲时长</option>
+                                                <option>平均播放时长</option>
+                                                <option>VV变化</option>
+                                                <option>整体UV</option>
+                                                <option>检索次数</option>
+                                                <option>检索命中次数</option>
+                                                <option>视屏点击购买次数</option>
+                                                <option>购买成功次数</option>
+                                                <option>异常次数</option>
+                                            </select>
+										</div>
+                                        <div class="col-sm-2 ">
+                                            <label class="col-xs-2 col-sm-2 control-label no-padding-right no-padding-left"
+                                                   for="form-field-1"> 系列 </label>
+                                            <div class="col-xs-10 col-sm-10 ">
+                                                <select name='type' class="form-field-1 col-xs-12 col-sm-12">
+                                                    {% if type != '' %}
+                                                        <option>{{ type }}</option>
+                                                    {% endif %}
+                                                    <option>K系列</option>
+                                                    <option>K82系列</option>
+                                                    <option>S1系列</option>
+                                                    <option>S2系列</option>
+                                                    <option>A21系列</option>
+                                            </select>
+                                        </div>
+										</div>
+                                        <div class="col-sm-2 ">
+                                        <label class="col-xs-2 col-sm-2 control-label no-padding-right no-padding-left" for="form-field-1"> CDN </label>
+                                            <div class="col-xs-10 col-sm-10 ">
+                                            <select name='support' class="form-field-1 col-xs-12 col-sm-12 no-padding-right">
+                                                {% if sup != '' %}
+                                                <option>{{ sup }}</option>
+                                                {% endif %}
+                                                <option>视云</option>
+                                                <option>奇异</option>
+                                                <option>又拍</option>
+                                                <option>乐视</option>
+                                                <option>金山</option>
+                                                <option>蛮蛮</option>
+                                            </select>
+                                            </div>
+										</div>
+                                        <div class="col-sm-2 ">
+	                                    <label class="col-xs-5 col-sm-5 control-label no-padding-right" for="form-field-tags">开始时间</label>
+                                            <div class="col-xs-7 col-sm-7 ">
+											<input type="text" name="start" id="form-field-tags" class="form_datetime col-xs-12 col-sm-12" value="{% if start != '' %}{{ start }}{% endif %}"/>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-2 ">
+                                        <label class="col-xs-5 col-sm-5 control-label no-padding-right" for="form-field-tags">结束时间</label>
+                                            <div class="col-xs-7 col-sm-7 ">
+											<input type="text" name="over" id="form-field-tags" class="form_datetime col-xs-12 col-sm-12" value="{% if over != '' %}{{ over }}{% endif %}" />
+                                            </div>
+                                        </div>
+										<div class="col-sm-1">
+												<button type="submit" class="btn btn-info">查询</button>
+										</div>
+									</div>
+
+								</form>
+                        <div class="col-lg-12 col-md-12 col-sm-12">
+                            <div id="container">
+                                </div>
+                            </div>
+						</div><!-- /.row -->
+					    </div><!-- /.page-content -->
+
+				    </div><!-- /.main-content -->
+
+				<div class="ace-settings-container" id="ace-settings-container">
+					<div class="btn btn-app btn-xs btn-warning ace-settings-btn" id="ace-settings-btn">
+						<i class="icon-cog bigger-150"></i>
+					</div>
+
+					<div class="ace-settings-box" id="ace-settings-box">
+						<div>
+							<div class="pull-left">
+								<select id="skin-colorpicker" class="hide">
+									<option data-skin="default" value="#438EB9">#438EB9</option>
+									<option data-skin="skin-1" value="#222A2D">#222A2D</option>
+									<option data-skin="skin-2" value="#C6487E">#C6487E</option>
+									<option data-skin="skin-3" value="#D0D0D0">#D0D0D0</option>
+								</select>
+							</div>
+							<span>&nbsp; 选择皮肤</span>
+						</div>
+
+						<div>
+							<input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-navbar" />
+							<label class="lbl" for="ace-settings-navbar"> 固定导航条</label>
+						</div>
+
+						<div>
+							<input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-sidebar" />
+							<label class="lbl" for="ace-settings-sidebar"> 固定滑动条</label>
+						</div>
+
+						<div>
+							<input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-breadcrumbs" />
+							<label class="lbl" for="ace-settings-breadcrumbs">固定面包屑</label>
+						</div>
+
+						<div>
+							<input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-rtl" />
+							<label class="lbl" for="ace-settings-rtl">切换到左边</label>
+						</div>
+
+						<div>
+							<input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-add-container" />
+							<label class="lbl" for="ace-settings-add-container">
+								切换窄屏
+								<b></b>
+							</label>
+						</div>
+					</div>
+				</div><!-- /#ace-settings-container -->
+			</div><!-- /.main-container-inner -->
+
+
+		</div>
+		<script type="text/javascript">
+			window.jQuery || document.write("<script src='assets/js/jquery-2.0.3.min.js'>"+"<"+"script>");
+		</script>
+
+		<script type="text/javascript">
+			if("ontouchend" in document) document.write("<script src='assets/js/jquery.mobile.custom.min.js'>"+"<"+"script>");
+		</script>
+		<script src="{% static 'js/bootstrap.min.js'%}"></script>
+		<script src="{% static 'js/typeahead-bs2.min.js' %}"></script>
+
+
+		<script src="{% static 'js/jquery-ui-1.10.3.custom.min.js'%}"></script>
+		<script src="{% static 'js/jquery.ui.touch-punch.min.js'%}"></script>
+		<script src="{% static 'js/jquery.slimscroll.min.js' %}"></script>
+		<script src="{% static 'js/jquery.easy-pie-chart.min.js' %}"></script>
+		<script src="{% static 'js/jquery.sparkline.min.js' %}"></script>
+		<script src="{% static 'js/flot/jquery.flot.min.js'%}"></script>
+		<script src="{% static 'js/flot/jquery.flot.pie.min.js' %}"></script>
+		<script src="{% static 'js/flot/jquery.flot.resize.min.js' %}"></script>
+		<script src="{% static 'js/ace-elements.min.js' %}"></script>
+		<script src="{% static 'js/ace.min.js' %}"></script>
+        <script src="{% static 'js/highcharts.js' %}"></script>
+        <script src="{% static 'js/bootstrap-datetimepicker.min.js' %}"></script>
+        <script src="{% static 'js/application.js' %}"></script>
+        <link href="{% static 'css/datetimepicker.css' %}" rel="stylesheet">
+<script type="text/javascript">
+$(function () {
+    $('#container').highcharts({
+        title: {
+            text: '数据查询',
+            x: -20 //center
+        },
+        subtitle: {
+            text: 'Source: {{ sup }}',
+            x: -20
+        },
+        xAxis: {
+            categories: {{ tm }},
+        },
+        yAxis: {
+            minorTickInterval: 'auto',
+
+            title: {
+                text: ' '
+            },
+            plotLines: [{
+                value: 0,
+                width: 1,
+                color: '#808080'
+            }]
+        },
+        legend: {
+            layout: 'vertical',
+            align: 'right',
+            verticalAlign: 'middle',
+            borderWidth: 0
+        },
+        credits:{
+            enable:false,
+            text:'ismartv',
+            href:"www.ismartv.com"
+        },
+        series: [{
+            name: '{{ cls }}',
+            data: {{ vl }}
+        }]
+    });
+});
+        $(".form_datetime").datetimepicker({format: 'yyyy-mm-dd', forceParse: true});
+
+</script>
+
+	<div style="display:none"><script src='http://v7.cnzz.com/stat.php?id=155540&web_id=155540' language='JavaScript' charset='gb2312'></script></div>
+</body>
+</html>
+
