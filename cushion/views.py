@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from django.shortcuts import render_to_response, RequestContext
-from models import play_info,n_info
+from models import n_info,epg
 from django.db.models import Count,Sum
 import datetime
 import numpy as np
@@ -52,20 +52,24 @@ def quality(request):
     typ = ['K', 'K', 'K82', 'S1', 'S2', 'A21'][
         typ1 == u'K系列' and 1 or typ1 == u'K82系列' and 2 or typ1 == u'S1系列' and 3 or typ1 == u'S2系列' and 4 or typ1 == u'A21系列' and 5]
     tenDayAgo = (datetime.datetime.now() - datetime.timedelta(days=15)).strftime("%Y-%m-%d")
+    select = [K,K,K82,S1,S2,A21][typ=='K' and 1 or typ== 'K82' and 2 or typ=='S1' and 3 or typ== 'S2'and  4 or typ== 'A21' and 5]
     if start != '' and over != '' and support != '':
-        dd = {'ip': support, 'date__lte': over, 'date__gte': start, 'type__contains': typ}
+        dd = {'ip': support, 'date__lte': over, 'date__gte': start, 'type__in': select}
     elif support == u'所有':
-        dd = {'type__contains': typ, 'date__gte': tenDayAgo}
+        dd = {'type__in': select, 'date__gte': tenDayAgo}
     elif start != '' and support != '':
-        dd = {'ip': support, 'type__contains': typ, 'date__gte': start}
+        dd = {'ip': support, 'type__in': select, 'date__gte': start}
     else:
         start = tenDayAgo
-        dd = {'ip': support, 'type__contains': typ, 'date__gte': start}
-    a = n_info.objects.using('n_quality').filter(**dd).values('ip','date').annotate(select_sum=Sum(cls),vv_sum=Sum('vv'))
+        dd = {'ip': support, 'type__in': select, 'date__gte': start}
+    if cls in ['uv', 'search', 'arrive', 'expense', 'purchase', 'error']:
+        dd.pop('ip')
+        a = epg.objects.using('n_quality').filter(**dd).values('date').annotate(select_sum=Sum(cls))
+    else:
+        a = n_info.objects.using('n_quality').filter(**dd).values('ip','date').annotate(select_sum=Sum(cls),vv_sum=Sum('vv'))
     cls_index = u'零缓冲比例' if cls1 is '' else cls1
     typ_index = u'K系列' if typ1 is '' else typ1
-    print cls_index,typ_index
-    if len(a) > 0:
+    if len(a) > 0 and (cls not in ['uv', 'search', 'arrive', 'expense', 'purchase', 'error']):
         tm,ip,vl,vv = zip(*map(lambda x: (x['date'],x['ip'],x['select_sum'],x['vv_sum']), a))
         if cls in ['unusual','gt3']:
             rate = (np.array(map(float, vl)) / np.array(map(float, vv))).tolist()
@@ -82,8 +86,26 @@ def quality(request):
             'start': start,
             'over': over
         }
+    elif len(a) > 0 :
+        tm, vl = zip(*map(lambda x: (x['date'],x['select_sum']), a))
+        info = {
+            'tm': map(lambda x: int((x.strftime("%Y%m%d"))), tm),
+            'vl': map(lambda x: float('%.2f' % x), vl),
+            'type': typ_index,
+            'cls': cls_index,
+            'sup': u'视云',
+            'start': start,
+            'over': over
+        }
     else:
-        info = {}
+        info = {
+            'type': typ_index,
+            'cls': cls_index,
+            'sup': sup,
+            'start': start,
+            'over': over
+        }
+
     return render_to_response("index2.html", info, context_instance=RequestContext(request))
 
 def contract(request):
