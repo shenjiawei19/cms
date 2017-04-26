@@ -202,13 +202,20 @@
                                             <div class="col-xs-10 col-sm-10 ">
                                                 <select name='type' class="form-field-1 col-xs-12 col-sm-12">
                                                     {% if type != '' %}
-                                                        <option>{{ type }}</option>
+                                                        <option class="checked">{{ type }}</option>
                                                     {% endif %}
                                                     <option>K系列</option>
                                                     <option>K82系列</option>
                                                     <option>S1系列</option>
                                                     <option>S2系列</option>
                                                     <option>A21系列</option>
+                                                    <option>sky夏普</option>
+                                                    <option>sky长虹</option>
+                                                    <option>sky暴风</option>
+                                                    <option>sky腾讯</option>
+                                                    <option>sky酷开</option>
+                                                    <option>sky康佳</option>
+                                                    <option>sky联想</option>
                                             </select>
                                         </div>
 										</div>
@@ -336,7 +343,7 @@
 $(function () {
     $('#container').highcharts({
         title: {
-            text: '数据查询',
+            text: '质量趋势图',
             x: -20 //center
         },
         subtitle: {
