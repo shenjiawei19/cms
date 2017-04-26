@@ -219,6 +219,7 @@
                                                 {% if sup != '' %}
                                                 <option>{{ sup }}</option>
                                                 {% endif %}
+                                                <option>所有</option>
                                                 <option>视云</option>
                                                 <option>奇异</option>
                                                 <option>又拍</option>
@@ -339,7 +340,7 @@ $(function () {
             x: -20 //center
         },
         subtitle: {
-            text: 'Source: {{ sup }}',
+            text: 'Source: {{ cls }}',
             x: -20
         },
         xAxis: {
@@ -368,10 +369,39 @@ $(function () {
             text:'ismartv',
             href:"www.ismartv.com"
         },
+        {% if bestv != '' %}
         series: [{
-            name: '{{ cls }}',
+            name: '视云',
+            data: {{ bestv }}
+        }, {
+            name: '又拍',
+            data: {{ up }}
+        },{
+            name: '京东',
+            data: {{ jindong }}
+        },
+        {
+            name: '乐视',
+            data: {{ letv }}
+        },{
+            name: '奇异',
+            data: {{ qiyi }}
+        },{
+            name: '金山',
+            data: {{ jinshan }}
+        },{
+            name: '网宿',
+            data: {{ wangsu }}
+        },{
+            name: '蛮蛮',
+            data: {{ manman }}
+        }],
+        {% else %}
+        series: [{
+            name: '{{ sup }}',
             data: {{ vl }}
         }]
+        {% endif %}
     });
 });
         $(".form_datetime").datetimepicker({format: 'yyyy-mm-dd', forceParse: true});
